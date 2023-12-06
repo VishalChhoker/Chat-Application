@@ -1,6 +1,6 @@
-package com.mani.chat.chat;
+package com.chat.chat;
 
-import com.mani.chat.dto.ChatMessage;
+import com.chat.dto.ChatMessage;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.messaging.handler.annotation.SendTo;

@@ -1,7 +1,7 @@
-package com.mani.chat.config;
+package com.chat.config;
 
-import com.mani.chat.dto.ChatMessage;
-import com.mani.chat.dto.MessageType;
+import com.chat.dto.ChatMessage;
+import com.chat.dto.MessageType;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.event.EventListener;

@@ -1,4 +1,4 @@
-package com.mani.chat.dto;
+package com.chat.dto;
 
 public enum MessageType {
     CHAT,
